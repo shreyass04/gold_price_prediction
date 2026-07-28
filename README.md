@@ -6,13 +6,12 @@ This project predicts the price of gold using a **Random Forest Regressor** base
 
 Gold prices are influenced by several economic and financial factors. This project uses historical market data and machine learning to build a predictive model that estimates gold prices with high accuracy.
 
-## 🚀 Features
+## ✨ Features
 
-- Predicts gold prices using historical financial data
-- Uses the Random Forest Regression algorithm
-- Data preprocessing and feature selection
-- Model training and evaluation
-- Performance metrics and visualization
+- Predicts gold prices using machine learning.
+- Uses historical market data.
+- Performs data preprocessing.
+- Evaluates model performance.
 
 ## 📊 Dataset
 
