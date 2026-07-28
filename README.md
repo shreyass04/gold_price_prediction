@@ -105,3 +105,7 @@ B.Tech Computer Science Engineering
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
+## 🛠 Bug Fix
+
+- Fixed minor formatting issue in the project documentation.
+
